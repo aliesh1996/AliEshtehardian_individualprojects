@@ -122,6 +122,6 @@ Here, I added the average runtime for 5 runs for each part:
 | Parallel(CPU)                 | 761.99 seconds |
 | Parallel (GPU)                | 133.49 seconds |
 
-Also, I uploaded a couple of diagrams, one of them is the output for serial (serial.jpg) and another one is for parallel with cpu (parallel.jpg) to show that there is not such difference between the outputs for both. 
+Also, I uploaded a couple of diagrams, one of them is the output for serial (serial.jpg) and another one is for parallel with cpu (parallel.png) to show that there is not such difference between the outputs for both. 
 
 
